@@ -53,4 +53,4 @@ This repository contains projects and assignments for the Cryptography and Netwo
 4. Execute or analyze the code as needed.
 
 ## Acknowledgment
-This repository is part of the CNS coursework for SE21UCSE192.
+This repository is part of the CNS coursework.
